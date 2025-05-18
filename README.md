@@ -17,7 +17,7 @@ Este projeto faz parte do meu portfólio como analista de inovação e demonstra
 
 ---
 
-## 🚀 Demonstração
+## Como executar o projeto
 
 ```bash
 # Clone o repositório
