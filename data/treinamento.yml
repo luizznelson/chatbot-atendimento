@@ -1,0 +1,13 @@
+categories:
+  - nome: FAQ
+    pairs:
+      - pergunta: Quais planos vocês oferecem?
+        resposta: Oferecemos planos residencial, empresarial e gamer, com velocidades de 100 a 1000 Mbps.
+      - pergunta: Como faço para pagar minha fatura?
+        resposta: Você pode pagar sua fatura pelo nosso site, pelo app ou presencialmente em nossos pontos de atendimento.
+      - pergunta: Como falar com o suporte?
+        resposta: O suporte está disponível pelo telefone, WhatsApp ou chat em nosso site 24h por dia.
+      - pergunta: Preciso de segunda via da fatura.
+        resposta: A segunda via pode ser emitida no site ou app, na área do cliente.
+      - pergunta: Qual o horário de atendimento presencial?
+        resposta: O atendimento presencial funciona das 8h às 18h, de segunda a sexta.
